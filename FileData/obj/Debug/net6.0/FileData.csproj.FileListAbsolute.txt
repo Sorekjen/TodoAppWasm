@@ -1,0 +1,17 @@
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\bin\Debug\net6.0\FileData.deps.json
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\bin\Debug\net6.0\FileData.dll
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\bin\Debug\net6.0\ref\FileData.dll
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\bin\Debug\net6.0\FileData.pdb
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\bin\Debug\net6.0\Application.dll
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\bin\Debug\net6.0\Domain.dll
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\bin\Debug\net6.0\Application.pdb
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\bin\Debug\net6.0\Domain.pdb
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.csproj.AssemblyReference.cache
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.AssemblyInfoInputs.cache
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.AssemblyInfo.cs
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.csproj.CoreCompileInputs.cache
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.csproj.CopyComplete
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.dll
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\ref\FileData.dll
+C:\Users\soren\RiderProjects\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.pdb
